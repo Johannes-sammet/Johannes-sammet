@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Johannes-sammet
+👋 Hi, I’m @Johannes-sammet
 I'm a student at the PH-Ludiwigsburg and i study computer science and mathmatics.
 
 I'm very interested in sports. I play ice hockey for the Heilbronner Eisbären.
